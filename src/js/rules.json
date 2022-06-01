@@ -1,0 +1,61 @@
+{
+    "header": "Die Heiligen ARAM Regeln - Das AramG",
+    "paragraphs": [
+        {
+            "header": "Anzahl der ARAM",
+            "sections": [
+                "Generell sind 3 ARAMs zu spielen (Aram am Abend, AAA).",
+                "Aus Zeitgründen kann auch nur ein ARAM gespielt werden. Zwei ARAMs sind grundsätzlich verboten.",
+                "Die Anzahl der ARAMs beginnt erneut, wenn drei ARAMs gespielt sind.",
+                "In verzweifelten Fällen werden ARAMs gespielt, bis ein ARAM gewonnen wurde."
+            ]
+        },
+        {
+            "header": "Summoner Spells",
+            "sections": [
+                "Die ARAM Summoner Spells sind Flash und Snowball.",
+                "Von dieser Regel darf nur dann eine Ausnahme gemacht werden, wenn der Champion dies erfordert (z.B. Yuumi)."
+            ]
+        },
+        {
+            "header": "Finish",
+            "sections": [
+                "Gefinished werden darf nur, wenn sonst die Gefahr der eigenen Niederlage droht.",
+                "Dies gilt insbesonders, wenn die eigenen Nextustürme bereits gefallen sind (Nomos-Regel).",
+                "Aus Zeitmangel darf von 1. abgewichen werden."
+            ]
+        },
+        {
+            "header": "ARAM-Gott",
+            "sections": [
+                "Den Weisungen eines ARAM-Gotts sind stehts Folge zu leisten.",
+                "Ein ARAM-Gott ist klassifiziert durch eine Anzahl an gespielten ARAMs, die 2000 oder mehr ergibt.",
+                "Bei Uneinigkeiten unter ARAM-Göttern, hat der ARAM-Gott recht, der mehr ARAMs gespielt hat (bei Gleichstand entscheidet die Münze)."
+            ]
+        },
+        {
+            "header": "Kerngedanke",
+            "sections": [
+                "Der Kerngedanke lautet \"Einfach Rein!\"",
+                "Grundsätzlich müssen getroffene Snowballs reaktiviert werden."
+            ]
+        },
+        {
+            "header": "Weitere Bestimmungen",
+            "sections": [
+                "Ein Reroll ist zu benutzen, wenn zwei Rerolls vorhanden sind.",
+                "Das ARAM darf nicht surrendert werden. Dies gilt nicht, wenn bedeutsame Gründe vorliegen.",
+                "Ein Execute ist grundsätzlich zulässig.",
+                "Dem ARAM darf nur gedoged werden, wenn bedeutsame Gründe vorliegen."
+            ]
+        },
+        {
+            "header": "In Kraft Treten",
+            "sections": [
+                "Dieses Gesetz tritt durch seine Verkündung in Kraft."
+            ]
+        }
+    ],
+    "footer": "Gezeichnet\nDer Elohell-Präsident\nCaptain Teemo",
+    "version": "01/06/2022"
+}
