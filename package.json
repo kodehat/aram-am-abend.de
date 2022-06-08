@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/kodehat/aram-am-abend.lol#readme",
   "devDependencies": {
+    "@parcel/packager-raw-url": "^2.6.0",
+    "@parcel/transformer-webmanifest": "^2.6.0",
     "alpinejs": "^3.10.2",
     "daisyui": "^2.15.2",
     "parcel": "^2.6.0",
