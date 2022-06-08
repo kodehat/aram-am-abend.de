@@ -2,7 +2,7 @@
 
 > Gives playing ARAM games a little different ruleset.
 
-This repo contains the source code the ARAM am Abend website and is built with
+This repo contains the source code of the ARAM am Abend website and is built with
 [Parcel](https://parceljs.org/), [Tailwind CSS](https://tailwindcss.com/) and
 [daisyUI](https://daisyui.com/).
 
