@@ -2,70 +2,11 @@
     "header": "Heiliges ARAM-am-Abend Gesetzbuch (HAramAAGB)",
     "paragraphs": [
         {
-            "header": "Anwendbarkeit",
+            "header": "Anarchie",
             "sections": [
-                "Dieses Gesetz findet abweichend nachfolgender Bestimmungen Anwendung im Spielmodus All-Random-All-Mid (ARAM).",
-                "Die Karte des Spielmodus ist Howling Abyss."
+                "Es darf kein ARAM gespielt werden, weil dieser Spielmodus einfach USELESS ist.",
             ]
         },
-        {
-            "header": "Anzahl der ARAM",
-            "sections": [
-                "Generell sind drei ARAMs zu spielen. Die zu verwendende Bezeichnung ist: ARAM-am-Abend (AAA), (Sg.).",
-                "Liegen triftige Gründe vor, die die Durchführung des AAA nach Abs. (1) verhindern, kann die Anzahl der ARAMs auf eins reduziert werden. Zwei ARAMs sind grundsätzlich verboten. Nichtbefolgung von wird mit zehn Liegestützen geahndet. Über die Durchführung der Strafe wacht der in § 8 Absatz 2 genannte Personenkreis.",
-                "Die für Abs. (1) und (2) zu verwendende Anzahl der ARAMs ist zum Modulus 3 zu berechnen.",
-                "In verzweifelten Fällen werden in Übereinkunft beteiligter Personen ARAMs gespielt, bis ein Sieg errungen werden kann. Berufung auf Abs. (4) ist durch den Ausruf “AAAAAAAAAAAARRGGHH” zu kennzeichnen und nimmt beteiligte Personen von Abs. (2a), insbesondere hinsichtlich Abs. (3), aus."
-            ]
-        },
-        {
-            "header": "Summoner Spells",
-            "sections": [
-                "Die AAA-Summoner-Spells sind Flash und Snowball.",
-                "Von dieser Regel darf nur durch ein Mehrheitsvotum abgewichen werden.",
-                "Nichtbefolgung zieht das Schreiben von “report [Spieler] for lack of snowball” durch verbleibende Gruppenmitglieder im für das gegnerische Team sichtbaren Kommunikationskanal nach sich."
-            ]
-        },
-        {
-            "header": "Finish",
-            "sections": [
-                "Möglichkeiten zum siegreichen Beenden des ARAMs dürfen nur in Anspruch genommen werden, wenn ansonsten die Gefahr der eigenen Niederlage nach übereinstimmender Einschätzung der beteiligten Personen unabwendbar erscheint.",
-                "Genannte Bedingung muss nicht erfüllt sein, wenn die eigenen Nexustürme bereits zerstört wurden. (Nomos-Regel).",
-                "Aus Zeitmangel darf von Abs. (1) abgewichen werden."
-            ]
-        },
-        {
-            "header": "ARAM-Gott",
-            "sections": [
-                "Den Weisungen einer Person mit mindestens 2000 ARAM-Spielen (ARAM-Gott) ist stets folge zu leisten.",
-                "Bei Uneinigkeiten unter ARAM-Göttern, hat der ARAM-Gott recht, der mehr ARAMs gespielt hat.",
-                "Bei Gleichstand des Absatz 2 entscheidet die Münze."
-            ]
-        },
-        {
-            "header": "Kerngedanke",
-            "sections": [
-                "Der Kerngedanke des AAA lautet: \"Einfach Rein!\".",
-                "Getroffene Schneebälle müssen grundsätzlich reaktiviert werden, wenn die Möglichkeit des gegnerischen Todes besteht.",
-                "Von dieser Regelung darf abgewichen werden, wenn Bedingungen gemäß § 3 Abs. (1) zutreffen."
-            ]
-        },
-        {
-            "header": "Weitere Bestimmungen",
-            "sections": [
-                "Ein Reroll ist zu benutzen, wenn zwei Rerolls vorhanden sind.",
-                "Dem ARAM darf weder im Vorhinein gedodged, noch darf es während des Spiels surrendert werden. Dies gilt nicht, wenn triftige Gründe angeführt werden können.",
-                "Ein Tod, der nach bestem Wissen und Gewissen als Execute gewertet werden wird, ist zulässig. Dies gilt nicht, wenn die begründete Annahme besteht, dass der Tod unmittelbar zur Niederlage im ARAMs führen wird (siehe auch § 3 Abs. (1)).",
-                "Die Regeln dieses Gesetze finden auf ähnliche Spielmodi entsprechende Anwendung."
-            ]
-        },
-        {
-            "header": "Inkrafttreten, Bindung",
-            "sections": [
-                "Dieses Gesetz tritt durch seine Verkündung im Teamspeak in Kraft. Es ist von CodeHat auf entsprechenden Websiten zugänglich zu machen.",
-                "Sämtliche nachfolgenden Personen haben das Gesetz ratifiziert (Jxxxxx, CxxxHxx, cxxxxxx0000, Ixxxxxxxx, Nxxxx00, Jxxxxx).",
-                "Die in Absatz 2 genannten Personen haben diesem Gesetz stets Folge zu leisten."
-            ]
-        }
     ],
     "footer": "Gezeichnet\nDer Elohell-Präsident\nCaptain Teemo",
     "version": "08/06/2022"
