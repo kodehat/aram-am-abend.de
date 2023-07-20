@@ -6,7 +6,8 @@
             "sections": [
                 "Dieses Gesetz findet abweichend nachfolgender Bestimmungen Anwendung im Spielmodus All-Random-All-Mid (ARAM).",
                 "Die Karte des Spielmodus ist Howling Abyss.",
-                "In Fällen eines ARAM-Clash's sind die nachfolgenden Regeln in der Hinsicht entsprechend anwendbar, sodass der Sieg die oberste Priorität ist."
+                "In Fällen eines ARAM-Clash's sind die nachfolgenden Regeln in der Hinsicht entsprechend anwendbar, sodass der Sieg die oberste Priorität ist.",
+                "Ein ARAM ist wichtiger, als ein Ranked."
             ]
         },
         {
@@ -32,7 +33,8 @@
             "sections": [
                 "Die AAA-Summoner-Spells sind Flash und Snowball.",
                 "Von dieser Regel darf nur durch ein Mehrheitsvotum oder durch Pick des Champions „Yuumi“ abgewichen werden. Satz 2 ist für ähnliche Champions entsprechend anzuwenden.",
-                "Nichtbefolgung zieht das Schreiben von “report [Spieler] for lack of snowball” durch verbleibende Gruppenmitglieder im für das gegnerische Team sichtbaren Kommunikationskanal nach sich. § 9 ist anzuwenden"
+                "Nichtbefolgung zieht das Schreiben von “report [Spieler] for lack of snowball” durch verbleibende Gruppenmitglieder im für das gegnerische Team sichtbaren Kommunikationskanal nach sich. § 9 ist anzuwenden",
+                "In Ausnahmefällen kann anstelle von Flash ein vergleichbarer Summoner-Spell gewählt werden. Dies gilt nur in Fällen, bei denen die Effizienz des Picks durch den anderen Summoner-Spell erhöht werden kann."
             ]
         },
         {
@@ -41,7 +43,7 @@
                 "Möglichkeiten zum siegreichen Beenden des ARAM dürfen nur in Anspruch genommen werden, wenn ansonsten die Gefahr der eigenen Niederlage nach übereinstimmender Einschätzung der beteiligten Personen unabwendbar erscheint.",
                 "Genannte Bedingung muss nicht erfüllt sein, wenn die eigenen Nexustürme bereits zerstört wurden. (Nomos-Regel).",
                 "Aus Zeitmangel darf von Abs. (1) abgewichen werden.",
-                "Entsprechend zu § 1 Abs. 3 ist bei einem ARAM-Clash ein siegreiches Beenden stets als oberste Priorität durchzuführen."
+                "§ 5 findet keine Anwendung in Fällen des § 1 Abs. 3."
             ]
         },
         {
@@ -57,7 +59,8 @@
             "header": "Kerngedanke",
             "sections": [
                 "Der Kerngedanke des AAA lautet: „Einfach Rein!“.",
-                "Getroffene Schneebälle müssen grundsätzlich reaktiviert werden, wenn die Möglichkeit des gegnerischen Todes besteht. In Fällen des § 1 Abs. 3 ist eine Abwägung zwingend durchzuführen. Von dieser Regelung darf abgewichen werden, wenn Bedingungen gemäß § 4 Abs. 2 zutreffen."
+                "Getroffene Schneebälle müssen grundsätzlich reaktiviert werden, wenn die Möglichkeit des gegnerischen Todes besteht (captain-Gesetz).",
+                "In Fällen des § 1 Abs. 3 ist eine Abwägung des Abs. 2 zwingend durchzuführen. Von dieser Regelung darf abgewichen werden, wenn Bedingungen gemäß § 4 Abs. 2 zutreffen."
             ]
         },
         {
@@ -66,7 +69,10 @@
                 "Ein Reroll ist zu benutzen, wenn zwei Rerolls vorhanden sind.",
                 "Dem ARAM darf weder im Vorhinein gedodged, noch darf es während des Spiels surrendert werden. Dies gilt nicht, wenn triftige Gründe angeführt werden können.",
                 "Ein Tod, der nach bestem Wissen und Gewissen als Execute gewertet werden wird, ist zulässig. Dies gilt nicht, wenn die begründete Annahme besteht, dass der Tod unmittelbar zur Niederlage des ARAM führen wird, insbesondere in Fällen des § 1 Abs. 3. Der ARAM-Gott ist befugt vorrübergehend die Zulässigkeit der Executes zu unterbinden.",
-                "Die Regeln dieses Gesetze finden auf ähnliche Spielmodi entsprechende Anwendung."
+                "Die Regeln dieses Gesetzes finden auf ähnliche Spielmodi entsprechende Anwendung.",
+                "Flash kann genutzt werden, um einen Heal zu erlangen. Dies gilt nicht in Fällen des § 1 Abs. 3.",
+                "Eine Liste, welche die längsten ARAM auflistet, wird erstellt. Dabei sind Uhrzeit des Beginns und des Endes entscheidend. Die Zeit wird mittels des Clients berechnet.",
+                "Regelmäßige Teilnehmer des AAA sollen in ihrem League-Status die Anzahl ihrer ARAM angeben. Dies gilt nicht bei besonderen Anlässen."
             ]
         },
         {
@@ -82,10 +88,11 @@
             "sections": [
                 "Dieses Gesetz tritt durch seine Verkündung im Teamspeak in Kraft. Es ist von CodeHat auf entsprechender Webseite zugänglich zu machen.",
                 "Sämtliche nachfolgenden Personen haben das Gesetz ratifiziert (Jxxxxx, CxxxHxx, cxxxxxx0000, Ixxxxxxxx, Nxxxx00, Jxxxxx, Kxxxxx Bxxx).",
-                "Die in Absatz 2 genannten Personen haben diesem Gesetz stets Folge zu leisten."
+                "Die in Absatz 2 genannten Personen haben diesem Gesetz stets Folge zu leisten.",
+                "Treten zu den in Abs. 2 genannten Personen eine weitere Person in einem Spiel hinzu, so wird diese Person auf dieses Gesetz hingewiesen."
             ]
         }
     ],
     "footer": "Gezeichnet\nDer Elohell-Präsident\nCaptain Teemo",
-    "version": "12/02/2023"
+    "version": "20/07/2023"
 }

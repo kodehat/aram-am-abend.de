@@ -13,19 +13,19 @@
     "url": "git+https://github.com/kodehat/aram-am-abend.lol.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "CodeHat",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kodehat/aram-am-abend.lol/issues"
   },
   "homepage": "https://github.com/kodehat/aram-am-abend.lol#readme",
   "devDependencies": {
-    "@parcel/packager-raw-url": "^2.8.3",
-    "@parcel/transformer-webmanifest": "^2.8.3",
-    "alpinejs": "^3.11.1",
-    "daisyui": "^2.50.0",
-    "parcel": "^2.8.3",
-    "postcss": "^8.4.21",
-    "tailwindcss": "^3.2.6"
+    "@parcel/packager-raw-url": "^2.9.3",
+    "@parcel/transformer-webmanifest": "^2.9.3",
+    "alpinejs": "^3.12.3",
+    "daisyui": "^3.3.1",
+    "parcel": "^2.9.3",
+    "postcss": "^8.4.26",
+    "tailwindcss": "^3.3.3"
   }
 }
