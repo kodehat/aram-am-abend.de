@@ -1,7 +1,8 @@
 {
   "name": "aram-am-abend.lol",
   "version": "1.0.0",
-  "description": "",
+  "description": "Rules for the game mode ARAM from 'League of Legends' in the evening, but played a litle bit differently.",
+  "private": true,
   "source": "src/index.html",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
@@ -18,14 +19,14 @@
   "bugs": {
     "url": "https://github.com/kodehat/aram-am-abend.lol/issues"
   },
-  "homepage": "https://github.com/kodehat/aram-am-abend.lol#readme",
+  "homepage": "https://www.aram-am-abend.lol",
   "devDependencies": {
-    "@parcel/packager-raw-url": "^2.9.3",
-    "@parcel/transformer-webmanifest": "^2.9.3",
-    "alpinejs": "^3.12.3",
-    "daisyui": "^3.3.1",
-    "parcel": "^2.9.3",
-    "postcss": "^8.4.26",
-    "tailwindcss": "^3.3.3"
+    "@parcel/packager-raw-url": "^2.13.3",
+    "@parcel/transformer-webmanifest": "^2.13.3",
+    "alpinejs": "^3.14.8",
+    "daisyui": "^4.12.23",
+    "parcel": "^2.13.3",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17"
   }
 }
