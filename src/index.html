@@ -13,18 +13,18 @@
   <meta name="theme-color" content="#1e3a8a">
   <title>Regelwerk | ARAM am Abend</title>
   <script type="module" src="./js/app.js" defer></script>
-  <script defer src="https://analytics.thisismy.cloud/script.js" data-website-id="44cf64b5-4c15-433b-81fd-dbccee181c45"></script>
+  <script defer src="https://analytics.thisismy.cloud/script.js" data-website-id="44cf64b5-4c15-433b-81fd-dbccee181c45" data-domains="www.aram-am-abend.lol"></script>
 </head>
 <body class="flex flex-col w-full">
   <div class="navbar bg-blue-900">
     <div class="navbar-start">
       <div class="dropdown">
-        <label class="btn btn-ghost btn-circle">
+        <div tabindex="0" role="button" class="btn btn-ghost btn-circle">
           <svg xmlns="http://www.w3.org/2000/svg" class="text-slate-100 fill-current h-5 w-5" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
           </svg>          
-        </label>
-        <ul class="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52" x-data="rules">
+        </div>
+        <ul tabindex="0" class="dropdown-content menu menu-sm mt-3 z-1 p-2 shadow-sm bg-base-100 rounded-box w-52" x-data="rules">
           <template x-for="(rule, index) in rules.paragraphs">
             <li><a x-bind:href="'#' + (index + 1)" x-text="'§ ' + (index + 1) + ' ' + rule.header"></a></li>
           </template>
@@ -67,15 +67,15 @@
       <p class="text-gray-900 underline text-xs" x-text="'Zuletzt aktualisiert am ' + rules.version.replaceAll('/', '.')"></p>
     </div>
   </main>
-  <footer class="footer footer-center p-10 bg-blue-900 text-blue-200 mt-10">
-    <div class="grid grid-flow-col gap-4">
+  <footer class="footer footer-horizontal footer-center p-10 bg-blue-900 text-blue-200 mt-10">
+    <nav class="grid grid-flow-col gap-4">
       <a class="link link-hover" href="https://github.com/kodehat/aram-am-abend.lol">GitHub</a>
       <a class="link link-hover" href="https://www.codehat.de/legal-details/">Impressum</a>
-    </div>
-    <div>
-      <p>Copyright © 2023 - <a href="https://www.codehat.de">CodeHat</a></p>
+    </nav>
+    <aside>
+      <p class="mb-1">Copyright © 2023 - <a href="https://www.codehat.de">CodeHat</a></p>
       <p class="max-w-3xl text-sm">aram-am-abend.lol isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.</p>
-    </div>
+    </aside>
   </footer>
 </body>
 </html>
