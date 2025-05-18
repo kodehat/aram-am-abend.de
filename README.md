@@ -42,7 +42,7 @@ You'll find the generated production website in the `dist` folder.
 
 ## Usage example
 
-The main website acts as a demo, so just head over to <https://aram-am-abend.lol> to see this repo in action.
+The main website acts as a demo, so just head over to <https://aram-am-abend.de> to see this repo in action.
 
 ## Meta
 
@@ -54,7 +54,7 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 ## Contributing
 
-1. Fork it (<https://github.com/kodehat/aram-am-abend.lol/fork>)
+1. Fork it (<https://github.com/kodehat/aram-am-abend.de/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)

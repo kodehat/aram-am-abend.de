@@ -1,5 +1,5 @@
 {
-  "name": "aram-am-abend.lol",
+  "name": "aram-am-abend.de",
   "version": "1.0.0",
   "description": "Rules for the game mode ARAM from 'League of Legends' in the evening, but played a litle bit differently.",
   "private": true,
@@ -11,24 +11,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kodehat/aram-am-abend.lol.git"
+    "url": "git+https://github.com/kodehat/aram-am-abend.de.git"
   },
   "keywords": [],
   "author": "CodeHat",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kodehat/aram-am-abend.lol/issues"
+    "url": "https://github.com/kodehat/aram-am-abend.de/issues"
   },
-  "homepage": "https://www.aram-am-abend.lol",
+  "homepage": "https://www.aram-am-abend.de",
   "devDependencies": {
-    "@parcel/packager-raw-url": "^2.13.3",
-    "@parcel/transformer-webmanifest": "^2.13.3",
-    "@tailwindcss/postcss": "^4.0.9",
-    "alpinejs": "^3.14.8",
-    "daisyui": "^5.0.0",
-    "parcel": "^2.13.3",
+    "@parcel/packager-raw-url": "^2.15.1",
+    "@parcel/transformer-webmanifest": "^2.15.1",
+    "@tailwindcss/postcss": "^4.1.7",
+    "alpinejs": "^3.14.9",
+    "daisyui": "^5.0.35",
+    "parcel": "^2.15.1",
     "postcss": "^8.5.3",
     "svgo": "^3.3.2",
-    "tailwindcss": "^4.0.9"
+    "tailwindcss": "^4.1.7"
   }
 }
