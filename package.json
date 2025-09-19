@@ -22,7 +22,7 @@
   "homepage": "https://www.aram-am-abend.de",
   "devDependencies": {
     "parcel": "^2.16.0",
-    "@parcel/packager-raw-url": "^2.15.4",
+    "@parcel/packager-raw-url": "^2.16.0",
     "@parcel/transformer-webmanifest": "^2.16.0",
     "tailwindcss": "^4.1.12",
     "@tailwindcss/postcss": "^4.1.13",
