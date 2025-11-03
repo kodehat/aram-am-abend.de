@@ -69,7 +69,7 @@
             "sections": [
                 "Dem ARAM darf weder im Vorhinein gedodged, noch darf es während des Spiels surrendert werden. Dies gilt nicht, wenn triftige Gründe angeführt werden können.",
                 "Ein Tod, der nach bestem Wissen und Gewissen als Execute gewertet werden wird, ist zulässig. Dies gilt nicht, wenn die begründete Annahme besteht, dass der Tod unmittelbar zur Niederlage des ARAM führen wird, insbesondere in Fällen des § 1 Abs. 3. Der ARAM-Gott ist befugt vorrübergehend die Zulässigkeit der Executes zu unterbinden.",
-                "Die Regeln dieses Gesetzes finden auf ähnliche Spielmodi entsprechende Anwendung.",
+                "Die Regeln dieses Gesetzes finden auf Spielmodi, welche den Namen \"ARAM\" enthalten entsprechende Anwendung.",
                 "Flash kann genutzt werden, um einen Heal zu erlangen. Dies gilt nicht in Fällen des § 1 Abs. 3.",
                 "Eine Liste, welche die längsten ARAM auflistet, wird erstellt. Dabei sind Uhrzeit des Beginns und des Endes entscheidend. Die Zeit wird mittels des Clients berechnet.",
                 "Regelmäßige Teilnehmer des AAA sollen in ihrem League-Status die Anzahl ihrer ARAM angeben. Dies gilt nicht bei besonderen Anlässen."
@@ -94,5 +94,5 @@
         }
     ],
     "footer": "Gezeichnet\nDer Elohell-Präsident\nCaptain Teemo",
-    "version": "21/09/2025"
+    "version": "03/11/2025"
 }
