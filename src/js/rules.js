@@ -1,5 +1,7 @@
-import rules from './rules.json'
+import rulesData from './rules.json'
 
-export default () => ({
-    rules: rules
+const rules = () => ({
+    rules: rulesData
 });
+
+export default rules;

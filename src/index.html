@@ -12,20 +12,27 @@
   <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#1e3a8a">
   <meta name="msapplication-TileColor" content="#1e3a8a">
   <meta name="theme-color" content="#1e3a8a">
+  <meta name="description" content="Regelwerk für ARAM am Abend – die offiziellen Gesetze und Regeln, ergründet durch tausende gespielte Runden ARAM in League of Legends.">
+  <meta property="og:title" content="Regelwerk | ARAM am Abend">
+  <meta property="og:description" content="Regelwerk für ARAM am Abend – die offiziellen Gesetze und Regeln, ergründet durch tausende gespielte Runden ARAM in League of Legends.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.aram-am-abend.de">
+  <meta property="og:image" content="https://www.aram-am-abend.de/apple-touch-icon.png">
   <title>Regelwerk | ARAM am Abend</title>
   <script type="module" src="./js/app.js" defer></script>
   <script defer src="https://analytics.thisismy.cloud/script.js" data-website-id="44cf64b5-4c15-433b-81fd-dbccee181c45" data-domains="www.aram-am-abend.de"></script>
 </head>
-<body class="flex flex-col w-full">
+<body class="flex flex-col w-full" x-data="rules">
+  <a href="#main-content" class="sr-only focus:not-sr-only focus:absolute focus:p-4 focus:bg-blue-900 focus:text-white focus:z-50">Zum Inhalt springen</a>
   <div class="navbar bg-blue-900">
     <div class="navbar-start">
       <div class="dropdown">
-        <div tabindex="0" role="button" class="btn btn-ghost btn-circle text-slate-100 hover:text-slate-700">
+        <div tabindex="0" role="button" class="btn btn-ghost btn-circle text-slate-100 hover:text-slate-700" aria-label="Menü öffnen">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h7" />
           </svg>          
         </div>
-        <ul tabindex="0" class="dropdown-content menu menu-sm mt-3 z-1 p-2 shadow-sm bg-base-100 rounded-box w-52" x-data="rules">
+        <ul tabindex="0" class="dropdown-content menu menu-sm mt-3 z-1 p-2 shadow-sm bg-base-100 rounded-box w-52">
           <template x-for="(rule, index) in rules.paragraphs">
             <li><a x-bind:href="'#' + (index + 1)" x-text="'§ ' + (index + 1) + ' ' + rule.header"></a></li>
           </template>
@@ -37,7 +44,7 @@
     </div>
     <div class="navbar-end"></div>
   </div>
-  <main class="mt-10 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-14 lg:mt-16 lg:px-8 xl:mt-20" x-data="rules">
+  <main id="main-content" class="mt-10 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-14 lg:mt-16 lg:px-8 xl:mt-20">
     <div class="text-center">
       <h1 class="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
         <span class="text-blue-500">A</span>RAM
@@ -54,7 +61,7 @@
       <template x-for="(rule, index) in rules.paragraphs">
         <div class="mt-4 mx-auto border-solid border-2 border-base-200 rounded-md p-4" :id="index + 1">
           <a class="text-7xl font-bold text-gray-900 mr-6 mb-6 float-left" x-bind:href="'#' + (index + 1)" x-text="'§ ' + (index + 1)"></a>
-          <p class="uppercase font-semibold tracking-widest text-gray-900" x-text="rule.header"></p>
+          <h2 class="uppercase font-semibold tracking-widest text-gray-900" x-text="rule.header"></h2>
           <ol class="list-decimal list-inside text-gray-600 leading-loose clear-left">
             <template x-for="section in rule.sections">
               <li x-text="section"></li>
