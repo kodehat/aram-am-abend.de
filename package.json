@@ -23,7 +23,7 @@
   "devDependencies": {
     "@parcel/packager-raw-url": "^2.16.4",
     "@parcel/transformer-webmanifest": "^2.16.4",
-    "@tailwindcss/postcss": "^4.3.1",
+    "@tailwindcss/postcss": "^4.3.2",
     "alpinejs": "^3.15.12",
     "daisyui": "^5.5.23",
     "parcel": "^2.16.4",
