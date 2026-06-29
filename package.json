@@ -25,7 +25,7 @@
     "@parcel/transformer-webmanifest": "^2.16.4",
     "@tailwindcss/postcss": "^4.3.2",
     "alpinejs": "^3.15.12",
-    "daisyui": "^5.5.23",
+    "daisyui": "^5.6.6",
     "parcel": "^2.16.4",
     "postcss": "^8.5.16",
     "svgo": "^4.0.1",
