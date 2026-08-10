@@ -27,7 +27,7 @@
     "alpinejs": "^3.15.12",
     "daisyui": "^5.7.16",
     "parcel": "^2.16.4",
-    "postcss": "^8.5.25",
+    "postcss": "^8.5.26",
     "svgo": "^4.0.2",
     "tailwindcss": "^4.3.1"
   }
