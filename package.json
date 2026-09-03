@@ -24,7 +24,7 @@
     "@parcel/packager-raw-url": "^2.16.4",
     "@parcel/transformer-webmanifest": "^2.16.4",
     "@tailwindcss/postcss": "^4.3.3",
-    "alpinejs": "^3.17.0",
+    "alpinejs": "^3.17.1",
     "daisyui": "^5.7.23",
     "parcel": "^2.16.4",
     "postcss": "^8.5.26",
